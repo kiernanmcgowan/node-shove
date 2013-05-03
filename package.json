@@ -1,0 +1,10 @@
+{
+  "name": "shove",
+  "version": "0.0.1",
+  "dependencies": {
+    "browserify": "2.13.x",
+    "underscore": "1.4.x",
+    "backbone": "1.0.x",
+    "jade": "0.30.x"
+  }
+}
